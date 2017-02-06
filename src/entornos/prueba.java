@@ -12,9 +12,9 @@ public class prueba {
 	}
 	public static void main(String args[]) {
 		in = new java.util.Scanner(System.in);
-		int numCasos;
-		numCasos = Integer.parseInt(in.nextLine());
-		for (int i = 0; i < numCasos; i++)
+		int Casos;
+		Casos = Integer.parseInt(in.nextLine());
+		for (int i = 0; i < Casos; i++)
 		casoDePrueba();
 		}
 			
